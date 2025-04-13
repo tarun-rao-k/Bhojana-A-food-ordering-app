@@ -1,0 +1,17 @@
+# Parcel cache directory
+.parcel-cache/
+
+# Node modules directory
+node_modules/
+
+# Local environment variables file
+.env
+
+# Log files
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+
